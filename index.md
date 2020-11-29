@@ -1,6 +1,12 @@
+# Codeit
 ## Welcome to VirtualVale's Homepage!
 
 This is my personal homepage, built to display and publish my current projects. I am Valentin Spannagl a master student of Robotics and Cognition. 
+
+## Interests
+1. Robotics
+2. Cognition
+3. Intelligence
 
 You can use the [editor on GitHub](https://github.com/VirtualVale/VirtualVale.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 

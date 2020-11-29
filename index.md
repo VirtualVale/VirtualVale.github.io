@@ -1,12 +1,14 @@
-# Codeit
-## Welcome to VirtualVale's Homepage!
+# Valentin Spannagl
+## Biography
 
-This is my personal homepage, built to display and publish my current projects. I am Valentin Spannagl a master student of Robotics and Cognition. 
+Valentin Spannagl is a german master student at the [Technical University Munich](www.tum.de). 2019 he finished the bachelor degree in the field "Ingenieurinformatik" at the [University Augsburg](https://www.uni-augsburg.de/de/). In the same year he entered the master's program [Robotics, Cognition, Intelligence](https://www.tum.de/en/studies/degree-programs/detail/robotics-cognition-intelligence-master-of-science-msc/). Since 2017 he is employed at the chair of production informatics and works on different projects on a broad range of technologies.
 
 ## Interests
-1. Robotics
-2. Cognition
-3. Intelligence
+ - Robotics
+ - Cognition
+ - Intelligence
+
+## Current Projects
 
 You can use the [editor on GitHub](https://github.com/VirtualVale/VirtualVale.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 

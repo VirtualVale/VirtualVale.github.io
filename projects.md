@@ -1,3 +1,1 @@
-layout: page
-title: "PROJECTS"
-permalink: /projects/
+This homepage is to be created…

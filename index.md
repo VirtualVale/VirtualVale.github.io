@@ -10,7 +10,7 @@ Valentin Spannagl is a german master student at the [Technical University Munich
  - Cognition
  - Intelligence
 
-## [Current Projects](virtualvale.github.io/projects)
+## [Current Projects](/projects)
 1. This homepage
 2. Installing a smart home system based on Openhab
 3. Building a robot arm from scratch

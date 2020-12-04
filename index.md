@@ -1,6 +1,5 @@
 ![Me](https://profile-images.xing.com/images/1f7e82c05504485a6932885c3b2afede-1/valentin-spannagl.1024x1024.jpg)
 
-# Valentin Spannagl
 ## Biography 
 <a name="biography"></a> 
 
@@ -11,6 +10,7 @@ Valentin Spannagl is a german master student at the [Technical University Munich
  - Robotics
  - Cognition
  - Intelligence
+
 
 ## [Current Projects](/projects)
 <a name="projects"></a> 

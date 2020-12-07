@@ -13,7 +13,7 @@ Since 2017 he is employed at the chair of production informatics and works on di
  - Intelligence
 
 
-## [Current Projects](/projects)
+## Current Projects
 <a name="projects"></a> 
 1. This homepage
 2. Installing a smart home system based on Openhab

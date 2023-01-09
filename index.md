@@ -3,26 +3,24 @@
 ## Biography 
 <a name="biography"></a> 
 
-Valentin Spannagl is a german master student at the [Technical University Munich](https://www.tum.de). 2019 he finished the bachelor degree in the field "Ingenieurinformatik" at the [University Augsburg](https://www.uni-augsburg.de/de/). In the same year he entered the master's program [Robotics, Cognition, Intelligence](https://www.tum.de/en/studies/degree-programs/detail/robotics-cognition-intelligence-master-of-science-msc/). 
-Since 2017 he is employed at the chair of production informatics and works on different projects on a broad range of technologies. The first project was based on augmented reality and deployed on the Microsoft Hololens and included visualizing a building instruction. Currently a project in ROS and mobile robots is in the work.
+Hi, I am Valentin Spannagl. At the end of 2022 I finishes my master program [Robotics, Cognition, Intelligence](https://www.tum.de/en/studies/degree-programs/detail/robotics-cognition-intelligence-master-of-science-msc/) at the [Technical University Munich](https://www.tum.de). The symbiosis of robotics and artificial intelligence fascinated me and now I am looking for a interesting job in this field. Prior to my time in munich I studied [Ingenieurinformatik](https://www.uni-augsburg.de/de/studium/studienangebot/uebersicht/ingenieurinformatik-bsc/) at the University in Augsburg. 
+During my bachelor I was employed at the Chair of Production Informatics in Augsburg. I worked on a variety of projects including augmented reality, additive manufacturing and mobile robot platforms. The latter were also the main component of my bachelor thesis. The scope of my master thesis was federated learning, which was applied on the driver monitoring use case. 
 
 ## Interests
 <a name="interests"></a> 
- - Robotics
- - Cognition
- - Intelligence
+ - Robots
+ - Artificial Intelligence, especially Federated Learning, respectively Deep Learning
+ - 3D Modelling & Printing
+ - Ethics for Robots and AI
 
+## Hobbies
+<a name="hobbies"></a>
+ - Sports (Biking, Ice skating, Weight training)
+ - Beekeeping
+ - Videogames
 
 ## Current Projects
 <a name="projects"></a> 
-1. This homepage
+1. Building a steward platform
 2. Installing a smart home system based on Openhab
-3. Building a robot arm from scratch
-
-## Current Courses
-<a name="courses"></a> 
- - Machine Learning
- - Robotics
- - Introduction to Deep Learning
- - Federated Learning in Healthcare
- - Auslegung von Elektrofahrzeugen
+3. Programming an app for a friend
